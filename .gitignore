@@ -1,0 +1,17 @@
+node_modules/
+client/node_modules/
+
+.env
+.env.*
+
+data/*.db
+data/*.sqlite
+uploads/*
+!uploads/.gitkeep
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+dist/
+client/dist/
